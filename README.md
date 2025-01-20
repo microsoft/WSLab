@@ -97,6 +97,12 @@ For more session slides navigate to [Slides](https://1drv.ms/u/s!AjTsLJdE37Dwtrs
 [![MSLab in CDCGermany](/Docs/media/MSLab_Datacenter_Simulation_presentation_thumb.png)](https://youtu.be/5IX9OLEk50Q)
 
 ## Run in PowerShell 7
+>[!Note] 
+>These steps are obsolete. PS 7 will integrate itself into the Windows 10 / 11 context menu, aswell as the modern Windows 11 context menu.
+>
+>"Run with PowerShell" will follow your defaults settings in Microsoft Terminal. It's optional, but recommended, to setup and using Microsoft Terminal as your default shell environment, for the best PowerShell 7 UX.
+
+
 MSLab scripts work also in PowerShell 7, if you want to test it just install latest version of PowerShell 7.
 
 If you also would like to have context menu integration like this:
